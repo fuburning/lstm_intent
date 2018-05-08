@@ -1,0 +1,8 @@
+{
+    "master_host": "10.141.105.109",
+    "master_port": 51280,
+    "listen_host": "0.0.0.0",
+    "listen_port": 51290,
+    "executor_workdir": "/search/odin/ypzhang/workspace/sogou/project/tensorgou/bin",
+    "executor_tempdir": "/search/odin/ypzhang/workspace/sogou/project/tensorgou/bin/tmp"
+}

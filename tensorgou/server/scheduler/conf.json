@@ -1,0 +1,11 @@
+{
+    "listen_host": "0.0.0.0",
+    "listen_port": 54199,
+    "storage": "storage.MysqlStorage(host='localhost', port=3306, user='tensorgou', passwd='tensorgou', db='mark_gou')",
+    "schedule_interval": 5,
+    "scheduler_workdir": "/search/odin/tensorgou/working",
+    "scheduler_tempdir": "/search/odin/tensorgou/tmp",
+    "alert_sms_appid": "tensorgou",
+    "alert_mail_from_name": "TensorGou",
+    "alert_mail_from_addr": "zhangyuanpeng@sogou-inc.com"
+}
